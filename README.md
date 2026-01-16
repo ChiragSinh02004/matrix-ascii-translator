@@ -1,3 +1,6 @@
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://chiragsinh02004.github.io/matrix-ascii-translator/)
+![Preview](preview.gif)
+
 # 🧠 Matrix ASCII Translator
 
 A cyber-style **ASCII ↔ Text translator** inspired by *The Matrix*.
