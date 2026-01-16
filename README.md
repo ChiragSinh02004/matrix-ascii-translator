@@ -3,16 +3,16 @@
 ![Security](https://img.shields.io/badge/security-scanned-success?style=for-the-badge&color=brightgreen)
 ![License](https://img.shields.io/github/license/chiragsinh02004/matrix-ascii-translator?style=for-the-badge)
 
-![GitHub stars](https://img.shields.io/github/stars/chiragsinh02004/matrix-ascii-translator?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/chiragsinh02004/matrix-ascii-translator?style=for-the-badge)
-![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
-![Contributors](https://img.shields.io/github/contributors/chiragsinh02004/matrix-ascii-translator?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/chiragsinh02004/matrix-ascii-translator?style=social)
+![Repo Size](https://img.shields.io/github/repo-size/chiragsinh02004/matrix-ascii-translator?style=social)
+![Version](https://img.shields.io/badge/version-1.0.0-blue?style=social)
+![Contributors](https://img.shields.io/github/contributors/chiragsinh02004/matrix-ascii-translator?style=social)
 
 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=social&logo=html5&logoColor=red)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=social&logo=css3&logoColor=#blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=social&logo=javascript&logoColor=orange)
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://chiragsinh02004.github.io/matrix-ascii-translator/)
 ![Preview](preview.gif)
