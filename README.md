@@ -1,6 +1,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/chiragsinh02004/matrix-ascii-translator?style=for-the-badge)
 ![License](https://img.shields.io/github/license/chiragsinh02004/matrix-ascii-translator?style=for-the-badge)
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?style=for-the-badge)](https://YOUR_USERNAME.github.io/matrix-ascii-translator/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?style=for-the-badge)](https://chiragsinh02004.github.io/matrix-ascii-translator/)
 ![Repo Size](https://img.shields.io/github/repo-size/chiragsinh02004/matrix-ascii-translator?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/chiragsinh02004/matrix-ascii-translator?style=for-the-badge)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
