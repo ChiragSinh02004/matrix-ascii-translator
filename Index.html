@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Matrix ASCII Translator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Matrix Background -->
+  <canvas id="matrix"></canvas>
+
+  <!-- App -->
+  <div class="container glass">
+    <h1>🧠 ASCII Translator</h1>
+
+    <!-- Matrix Color Modes -->
+    <div class="matrix-modes">
+      <button data-color="green">Green</button>
+      <button data-color="red">Red</button>
+      <button data-color="blue">Blue</button>
+    </div>
+
+    <!-- Translator Mode -->
+    <select id="mode">
+      <option value="textToAscii">Text → ASCII</option>
+      <option value="asciiToText">ASCII → Text</option>
+    </select>
+
+    <textarea id="input" placeholder="Enter text or ASCII codes"></textarea>
+
+    <button id="translateBtn">Translate</button>
+
+    <textarea id="output" placeholder="Result" readonly></textarea>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
